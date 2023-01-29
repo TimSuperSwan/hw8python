@@ -1,2 +1,2 @@
-Name: arten Surname: lebedev Physic: 5 Math: 4 
-Name: ilya Surname: golubev Physic:  Math: 3 
+Name: artem Surname: lebedev Physic: 5,4,3 
+Name: bogdan Surname: nidenov Physic: 4 
